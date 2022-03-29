@@ -1,0 +1,14 @@
+body {
+  background: #3A3A59;
+  color: #FFF;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+video {
+  width: 80vw;
+  height:  calc(80vw/1.7);
+}
