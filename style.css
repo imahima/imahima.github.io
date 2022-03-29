@@ -9,6 +9,7 @@ h1 {
 }
 
 video {
+  text-align: center;
   width: 80vw;
-  height:  calc(80vw/1.7);
+  height:  auto;
 }
