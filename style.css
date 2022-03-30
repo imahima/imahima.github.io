@@ -17,3 +17,8 @@ video {
   width: 70vw;
   height: auto;
 }
+
+img {
+  vertical-aling: bottom;
+  height: 1.3em;
+}
